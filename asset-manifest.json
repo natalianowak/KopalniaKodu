@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KopalniaKodu/static/css/main.8b7e2acc.chunk.css",
-    "main.js": "/KopalniaKodu/static/js/main.91672728.chunk.js",
-    "main.js.map": "/KopalniaKodu/static/js/main.91672728.chunk.js.map",
+    "main.js": "/KopalniaKodu/static/js/main.4506eef9.chunk.js",
+    "main.js.map": "/KopalniaKodu/static/js/main.4506eef9.chunk.js.map",
     "runtime-main.js": "/KopalniaKodu/static/js/runtime-main.4d6c13d1.js",
     "runtime-main.js.map": "/KopalniaKodu/static/js/runtime-main.4d6c13d1.js.map",
     "static/css/2.0f87f62a.chunk.css": "/KopalniaKodu/static/css/2.0f87f62a.chunk.css",
     "static/js/2.c20df534.chunk.js": "/KopalniaKodu/static/js/2.c20df534.chunk.js",
     "static/js/2.c20df534.chunk.js.map": "/KopalniaKodu/static/js/2.c20df534.chunk.js.map",
     "index.html": "/KopalniaKodu/index.html",
-    "precache-manifest.0d4f48c242da1933c6d82fd76fd780f8.js": "/KopalniaKodu/precache-manifest.0d4f48c242da1933c6d82fd76fd780f8.js",
+    "precache-manifest.7c3e5352d84601d374d2dcba8ec8b40a.js": "/KopalniaKodu/precache-manifest.7c3e5352d84601d374d2dcba8ec8b40a.js",
     "service-worker.js": "/KopalniaKodu/service-worker.js",
     "static/css/2.0f87f62a.chunk.css.map": "/KopalniaKodu/static/css/2.0f87f62a.chunk.css.map",
     "static/css/main.8b7e2acc.chunk.css.map": "/KopalniaKodu/static/css/main.8b7e2acc.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.0f87f62a.chunk.css",
     "static/js/2.c20df534.chunk.js",
     "static/css/main.8b7e2acc.chunk.css",
-    "static/js/main.91672728.chunk.js"
+    "static/js/main.4506eef9.chunk.js"
   ]
 }
