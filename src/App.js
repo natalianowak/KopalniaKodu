@@ -75,7 +75,7 @@ function App() {
         background="#fff"
         mode="horizontal"
         defaultSelectedKeys={['2']}
-        style={{ lineHeight: '74px', textAlign: 'center', border: 'none' }}
+        style={{ lineHeight: '74px', textAlign: 'center', border: 'none', fontSize:'16px', fontWeight:'bold' }}
       >
         <Menu.Item key="1">Technologie</Menu.Item>
         <Menu.Item key="3">Portfolio</Menu.Item>
@@ -90,15 +90,15 @@ function App() {
 
       <Content>
         <div style={{ padding: '20px', background: '#fff' }}></div>
-        <div style={{ padding: '100px 180px', background: 'grey', minHeight: 200, }}>
+        <div style={{ padding: '100px 180px', background: '#efefef', minHeight: 200, }}>
 
-          <h1 style={{ color: '#fff', textAlign: 'center' }}> Tworzenie stron www niezależnie od Twojej lokalizacji</h1>
-          <p style={{ color: '#fff', textAlign: 'center' }}>Stworzenie strony www obejmuje system CMS, który pozwoli na samodzielną aktualizację strony www. Podstawowa oferta to 5 podstron np. Start, O firmie, Oferta, Kontakt z formularzem oraz Galeria. Cennik stron internetowych obejmuje projektowanie, uruchomienie, instalacja na serwerze, optymalizacja pod kątem wyszukiwania w Google, można także dodać statystyki. Możliwe wykonanie w kilku wersjach językowych na bazie materiałów klienta.</p>
-          <h1 style={{ paddingTop: '30px', color: '#fff', textAlign: 'center' }}> Aktualizacja stron www</h1>
-          <p style={{ color: '#fff', textAlign: 'center' }}>Wychodząc na przeciw zapotrzebowaniu oferujemy aktualizację stron www. Opłata jest pobierana tylko za przepracowany czas. Nie pobieramy stałych opłat, czy abonamentów za aktualizację strony internetowej, klient płaci jedynie za pracę.</p>
+          <h1 style={{ color: '#000', textAlign: 'center' }}> Tworzenie stron www niezależnie od Twojej lokalizacji</h1>
+          <p style={{ color: '#000', textAlign: 'center' }}>Stworzenie strony www obejmuje system CMS, który pozwoli na samodzielną aktualizację strony www. Podstawowa oferta to 5 podstron np. Start, O firmie, Oferta, Kontakt z formularzem oraz Galeria. Cennik stron internetowych obejmuje projektowanie, uruchomienie, instalacja na serwerze, optymalizacja pod kątem wyszukiwania w Google, można także dodać statystyki. Możliwe wykonanie w kilku wersjach językowych na bazie materiałów klienta.</p>
+          <h1 style={{ paddingTop: '30px', color: '#000', textAlign: 'center' }}> Aktualizacja stron www</h1>
+          <p style={{ color: '#000', textAlign: 'center' }}>Wychodząc na przeciw zapotrzebowaniu oferujemy aktualizację stron www. Opłata jest pobierana tylko za przepracowany czas. Nie pobieramy stałych opłat, czy abonamentów za aktualizację strony internetowej, klient płaci jedynie za pracę.</p>
 
-          <h1 style={{ paddingTop: '30px', color: '#fff', textAlign: 'center' }}>Tworzenie aplikacji internetowych </h1>
-          <p style={{ color: '#fff', textAlign: 'center' }}>Tworzenie aplikacji mobilnych składa się z kilku procesów. Tworząc aplikację mobilną dbamy o to aby aplikacja była mocno funkcjonalna a zarazem prosta i intuicyjna w obsłudze. Dbamy aby interfejs aplikacji był wygodny i czytelny a zarazem prosty i nie przeładowany ilością elementów. po stworzeniu aplikacji oferujemy wsparcie techniczne dla naszych klientów.</p>
+          <h1 style={{ paddingTop: '30px', color: '#000', textAlign: 'center' }}>Tworzenie aplikacji internetowych </h1>
+          <p style={{ color: '#000', textAlign: 'center' }}>Tworzenie aplikacji mobilnych składa się z kilku procesów. Tworząc aplikację mobilną dbamy o to aby aplikacja była mocno funkcjonalna a zarazem prosta i intuicyjna w obsłudze. Dbamy aby interfejs aplikacji był wygodny i czytelny a zarazem prosty i nie przeładowany ilością elementów. po stworzeniu aplikacji oferujemy wsparcie techniczne dla naszych klientów.</p>
         </div>
 
         <div style={{ padding: '100px 180px', background: '#fff', minHeight: 200, color: '#fff' }} >
@@ -124,9 +124,9 @@ function App() {
           />
         </div>
 
-        <div style={{ padding: '100px', background: 'grey', minHeight: 200, color: '#fff' }}>
-          <h1 style={{ color: '#fff', textAlign: "center" }}>Portfolio</h1>
-          <h3 style={{ color: '#fff', textAlign: "center", paddingBottom: '20px' }}>Zrealizowane projekty</h3>
+        <div style={{ padding: '100px', background: '#efefef', minHeight: 200, color: '#000' }}>
+          <h1 style={{ color: '#000', textAlign: "center" }}>Portfolio</h1>
+          <h3 style={{ color: '#000', textAlign: "center", paddingBottom: '20px' }}>Zrealizowane projekty</h3>
           <Row gutter={[16, 16]}>
             <Col style={{ textAlign: "center" }} span={8}>
               <p>Wytwórnia pikseli</p>
@@ -188,7 +188,7 @@ function App() {
           </Form>
         </div>
       </Content>
-      <Footer style={{ textAlign: 'center' }}>Created by Natalia Nowak 2018</Footer>
+      <Footer style={{ textAlign: 'center', backgroundColor:'#efefef' }}>Created by Natalia Nowak 2018</Footer>
     </Layout>
   );
 }
