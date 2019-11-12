@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/css/main.8b7e2acc.chunk.css",
+    "main.js": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/main.0f935ad4.chunk.js",
+    "main.js.map": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/main.0f935ad4.chunk.js.map",
+    "runtime-main.js": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/runtime-main.73514749.js",
+    "runtime-main.js.map": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/runtime-main.73514749.js.map",
+    "static/css/2.0f87f62a.chunk.css": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/css/2.0f87f62a.chunk.css",
+    "static/js/2.f8146291.chunk.js": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/2.f8146291.chunk.js",
+    "static/js/2.f8146291.chunk.js.map": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/js/2.f8146291.chunk.js.map",
+    "index.html": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/index.html",
+    "precache-manifest.d37698ee11578399f021eae5b3b19803.js": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/precache-manifest.d37698ee11578399f021eae5b3b19803.js",
+    "service-worker.js": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/service-worker.js",
+    "static/css/2.0f87f62a.chunk.css.map": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/css/2.0f87f62a.chunk.css.map",
+    "static/css/main.8b7e2acc.chunk.css.map": "%7Bnatalianowak%7D.github.io/%7BKopalniaKodu%7D/static/css/main.8b7e2acc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73514749.js",
+    "static/css/2.0f87f62a.chunk.css",
+    "static/js/2.f8146291.chunk.js",
+    "static/css/main.8b7e2acc.chunk.css",
+    "static/js/main.0f935ad4.chunk.js"
+  ]
+}
